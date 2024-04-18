@@ -1,0 +1,20 @@
+{
+  "name": "ticwic-currency-converter",
+  "version": "1.0.0",
+  "description": "It  is a digital tool designed to facilitate the conversion of one currency to another at current exchange rates. It typically provides users with a Command Line Interface where they can input the amount of money in one currency and select the desired currency to convert to.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Talha",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/jquery": "^3.5.29"
+  }
+}
